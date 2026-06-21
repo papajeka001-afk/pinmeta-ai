@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Helvetica Neue', Arial, ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Georgia', ui-serif, serif;
+
+  --color-brand-red: #E60023;
+  --color-brand-red-dark: #cc0020;
+  --color-brand-red-light: #ff4d6d;
+}
+
+body {
+  @apply font-sans bg-[#FDFCFB] text-[#222222] min-h-screen;
+}

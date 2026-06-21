@@ -1,0 +1,6 @@
+{
+  "name": "PinMeta AI",
+  "description": "Pinterest Metadata Generator tool powered by AI. Generates optimal titles, descriptions, keywords, and alt text from product images or links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
